@@ -22,6 +22,7 @@ a{
     width: 182vh;
     size: 4vh;
     text-align: left;
+    border-radius: 15px;
 }
 .tamaño{
     font-size: 3rem;
